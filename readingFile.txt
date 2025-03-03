@@ -1,0 +1,2 @@
+Hello, this is a sample file!
+Node.js is reading this file.
